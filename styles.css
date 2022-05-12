@@ -1,0 +1,19 @@
+table, td{
+  border: 1px black solid;
+}
+.grupos {
+  font-size: 30px;
+  text-align: center;
+  width: 120px;
+  height: 90px;
+}
+.pj, .pg, .pe, .pp, .gf, .gc, .pts{
+  border: 1px black solid;
+}
+.equipos{
+  border: 1px black solid;
+  text-align: left;
+}
+.tablas{
+  float: left;
+}
